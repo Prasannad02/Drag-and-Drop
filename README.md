@@ -18,7 +18,7 @@ Prasanna -Drag and Drop Site is a web application that enables users to easily d
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Drag-and-drop/
+    https://prasannad02.github.io/Drag-and-Drop/
 ## Geeting Started
 
 To use the Prasanna's Drag & Drop web page, follow these steps:
